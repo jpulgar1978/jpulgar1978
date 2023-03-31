@@ -50,6 +50,7 @@ In chronological order:
 * [berkaygunduzz](https://github.com/berkaygunduzz) provided the translation to Turkish
 
 Thank you all!
+Tests
 
 ## Screenshots
 
